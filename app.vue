@@ -1,5 +1,6 @@
 <template>
-  <NuxtLayout>
+    <nav>
+    <NuxtLink to="/">Home</NuxtLink>
+  </nav>
     <NuxtPage/>
-  </NuxtLayout>
 </template>
